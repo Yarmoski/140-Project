@@ -1,12 +1,7 @@
 # 140-Project
 
-## Data and viz of interest
-### Data Article
-https://fortunly.com/statistics/video-game-industry-statistics/
-    - I love playing video games and these stats interested me. I didn't know that 85% of game revenue comes from free-to-play games!
-### Sample Visualization
-Comparative bar charts are very useful. It would be great if I could make these quickly.
-![image.png](attachment:image.png)
+## Data Article
+- I love playing video games and these stats interested me. I didn't know that 85% of game revenue comes from free-to-play games! https://fortunly.com/statistics/video-game-industry-statistics/
 
 ## Ideas for data to investigate
 ### Potential Topics
