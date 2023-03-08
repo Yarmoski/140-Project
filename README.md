@@ -1,12 +1,17 @@
-# 140-Project
+# Video Game Metrics from 2004 to 2010
 
-## Data and viz of interest
-### Data Article
-https://fortunly.com/statistics/video-game-industry-statistics/
-    - I love playing video games and these stats interested me. I didn't know that 85% of game revenue comes from free-to-play games!
-### Sample Visualization
-Comparative bar charts are very useful. It would be great if I could make these quickly.
-![image.png](attachment:image.png)
+## Questions of Interest
+- Does the console, the average completion time, or other factors have a significant effect on game sales?
+- What can future game developers learn to improve the performance of their game from an empirical and sales-oriented standpoint?
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yarmoski/140-Project/HEAD)
+
+---
+
+# Previous Version
+
+## Data Article
+- I love playing video games and these stats interested me. I didn't know that 85% of game revenue comes from free-to-play games! https://fortunly.com/statistics/video-game-industry-statistics/
 
 ## Ideas for data to investigate
 ### Potential Topics
