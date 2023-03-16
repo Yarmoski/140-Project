@@ -1,8 +1,8 @@
 # Video Game Metrics from 2004 to 2010
 
 ## Questions of Interest
+- What are the most important empirical considerations for those in the video game industry when planning a new video game release?
 - Does the console, the average completion time, or other factors have a significant effect on game sales?
-- What can future game developers learn to improve the performance of their game from an empirical and sales-oriented standpoint?
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Yarmoski/140-Project/HEAD)
 
